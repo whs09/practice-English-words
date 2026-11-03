@@ -1,4 +1,4 @@
-# practice-English-wordsimport streamlit as st
+import streamlit as st
 import random
 
 # 1. Session State를 활용한 데이터 초기화
